@@ -1,0 +1,4 @@
+[submodule "Backend/beRental-dotnet"]
+	path = Backend/beRental-dotnet
+	url = https://github.com/hgomez01/beRental-dotnet.git
+	ignore = untracked
